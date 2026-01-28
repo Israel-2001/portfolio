@@ -18,7 +18,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Israel</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-            I build end-to-end web solutions<br className='sm:block hidden' />
+            I build end-to-end web solutions <br className='sm:block hidden' />
             bridging the gap between responsive <br />frontend design and powerful backend systems
           </p>
         </div>
